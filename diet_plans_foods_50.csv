@@ -1,0 +1,38 @@
+goal,diet_preference,level,morning_meal,afternoon_meal,night_meal
+Weight Loss,Vegetarian,Beginner,"Oats with skim milk, apple","Brown rice, dal, mixed vegetables","Vegetable soup, salad"
+Weight Loss,Vegetarian,Beginner,Poha with peanuts,"Chapati, curd, vegetable sabzi",Steamed vegetables
+Weight Loss,Vegetarian,Intermediate,"Oats, banana","Quinoa, paneer curry, salad",Grilled vegetables
+Weight Loss,Vegetarian,Advanced,"Smoothie (spinach, banana)","Brown rice, tofu, vegetables","Soup, sprouts"
+Weight Loss,Non-Vegetarian,Beginner,"Boiled eggs, toast","Grilled chicken, rice","Egg whites, salad"
+Weight Loss,Non-Vegetarian,Intermediate,"Omelette, fruit","Chicken breast, vegetables",Fish soup
+Weight Loss,Non-Vegetarian,Advanced,"Egg whites, oats","Grilled fish, salad",Boiled eggs
+Weight Loss,Vegan,Beginner,"Fruit bowl, nuts","Lentils, vegetables",Soup
+Weight Loss,Vegan,Intermediate,Oats with almond milk,"Quinoa, chickpeas",Steamed veggies
+Weight Loss,Vegan,Advanced,Green smoothie,Tofu stir fry,Salad
+Muscle Gain,Vegetarian,Beginner,"Milk, banana, peanuts","Rice, dal, paneer","Curd, nuts"
+Muscle Gain,Vegetarian,Intermediate,"Oats, milk, fruits","Chapati, paneer curry","Milk, banana"
+Muscle Gain,Vegetarian,Advanced,Protein smoothie,"Brown rice, paneer",Greek yogurt
+Muscle Gain,Non-Vegetarian,Beginner,"Eggs, toast","Chicken curry, rice",Boiled eggs
+Muscle Gain,Non-Vegetarian,Intermediate,"Omelette, oats","Grilled chicken, chapati",Fish
+Muscle Gain,Non-Vegetarian,Advanced,"Egg whites, oats","Chicken breast, rice",Paneer
+Muscle Gain,Vegan,Beginner,"Soy milk, fruits","Rice, lentils",Nuts
+Muscle Gain,Vegan,Intermediate,"Oats, peanut butter","Quinoa, tofu",Seeds
+Muscle Gain,Vegan,Advanced,Protein smoothie,"Tofu, brown rice",Salad
+Improve Endurance,Vegetarian,Beginner,"Banana, milk","Rice, vegetables",Soup
+Improve Endurance,Vegetarian,Intermediate,"Oats, fruits","Quinoa, dal",Curd
+Improve Endurance,Vegetarian,Advanced,Smoothie,"Brown rice, vegetables",Salad
+Improve Endurance,Non-Vegetarian,Beginner,"Egg, toast",Chicken rice,Soup
+Improve Endurance,Non-Vegetarian,Intermediate,"Omelette, fruit","Fish curry, rice",Boiled eggs
+Improve Endurance,Non-Vegetarian,Advanced,Egg whites,"Grilled fish, rice",Salad
+Improve Endurance,Vegan,Beginner,Fruit bowl,"Lentils, rice",Vegetables
+Improve Endurance,Vegan,Intermediate,"Oats, fruits","Quinoa, chickpeas",Soup
+Improve Endurance,Vegan,Advanced,Smoothie,"Tofu, rice",Salad
+General Fitness,Vegetarian,Beginner,"Milk, fruits","Rice, dal",Vegetables
+General Fitness,Vegetarian,Intermediate,"Oats, fruits","Chapati, vegetables",Curd
+General Fitness,Vegetarian,Advanced,Smoothie,"Brown rice, paneer",Salad
+General Fitness,Non-Vegetarian,Beginner,"Eggs, toast",Chicken rice,Soup
+General Fitness,Non-Vegetarian,Intermediate,Omelette,"Fish curry, rice",Salad
+General Fitness,Non-Vegetarian,Advanced,Egg whites,Grilled chicken,Vegetables
+General Fitness,Vegan,Beginner,Fruit bowl,"Rice, lentils",Soup
+General Fitness,Vegan,Intermediate,"Oats, nuts","Quinoa, vegetables",Salad
+General Fitness,Vegan,Advanced,Smoothie,"Tofu, brown rice",Vegetables

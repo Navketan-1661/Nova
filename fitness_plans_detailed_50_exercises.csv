@@ -1,0 +1,40 @@
+goal,level,duration,exercise_name,exercise_explanation,time_required,sets
+Weight Loss,Beginner,6 Weeks,Brisk Walking,"Brisk walking is a simple cardiovascular exercise that raises heart rate, improves circulation, supports fat burning, and is ideal for beginners starting their fitness journey.",30 minutes,1 set
+Weight Loss,Beginner,6 Weeks,Jumping Jacks,"Jumping jacks activate the full body, improve coordination, and help burn calories through continuous rhythmic movement.",15 minutes,3 sets
+Weight Loss,Beginner,6 Weeks,High Knees,"High knees increase heart rate, improve lower body strength, and promote calorie burn while improving balance.",15 minutes,3 sets
+Weight Loss,Intermediate,1 Month,Burpees,"Burpees combine strength and cardio, making them effective for rapid fat loss and endurance improvement.",20 minutes,4 sets
+Weight Loss,Intermediate,1 Month,Mountain Climbers,"Mountain climbers improve core strength, agility, and cardiovascular endurance while burning calories.",20 minutes,4 sets
+Weight Loss,Advanced,3 Months,HIIT Training,"HIIT alternates intense effort and rest, boosting metabolism and maximizing fat loss.",25 minutes,5 sets
+Weight Loss,Advanced,3 Months,Battle Ropes,Battle ropes provide a high intensity workout that burns fat and builds upper body endurance.,20 minutes,5 sets
+Muscle Gain,Beginner,6 Weeks,Push Ups,"Push ups strengthen the chest, shoulders, arms, and core using bodyweight resistance.",15 minutes,3 sets
+Muscle Gain,Beginner,6 Weeks,Bodyweight Squats,Squats build leg and glute strength while improving posture and balance.,15 minutes,3 sets
+Muscle Gain,Beginner,6 Weeks,Wall Sit,Wall sits build leg endurance and strengthen thigh muscles.,10 minutes,3 sets
+Muscle Gain,Intermediate,1 Month,Bench Press,"Bench press develops chest, shoulder, and arm strength using resistance.",20 minutes,4 sets
+Muscle Gain,Intermediate,1 Month,Lat Pulldown,Lat pulldown strengthens back muscles and improves posture.,20 minutes,4 sets
+Muscle Gain,Advanced,3 Months,Deadlift,"Deadlifts strengthen the back, legs, and core for overall power development.",25 minutes,5 sets
+Muscle Gain,Advanced,3 Months,Barbell Squats,Barbell squats improve lower body strength and muscle mass.,25 minutes,5 sets
+Improve Endurance,Beginner,6 Weeks,Cycling,Cycling improves cardiovascular health and leg endurance while being joint friendly.,30 minutes,1 set
+Improve Endurance,Beginner,6 Weeks,Jogging,"Jogging enhances lung capacity, heart health, and stamina.",20 minutes,1 set
+Improve Endurance,Beginner,6 Weeks,Skipping Rope,"Skipping rope improves coordination, endurance, and calorie burn.",15 minutes,2 sets
+Improve Endurance,Intermediate,1 Month,Swimming,Swimming works the full body while improving breathing efficiency and endurance.,30 minutes,2 sets
+Improve Endurance,Intermediate,1 Month,Rowing Machine,Rowing improves cardiovascular endurance and total body strength.,25 minutes,3 sets
+Improve Endurance,Advanced,3 Months,Sprint Intervals,"Sprint intervals increase speed, stamina, and cardiovascular strength.",25 minutes,4 sets
+Improve Endurance,Advanced,3 Months,Long Distance Running,Long runs improve aerobic capacity and mental endurance.,40 minutes,1 set
+General Fitness,Beginner,6 Weeks,Yoga,"Yoga improves flexibility, balance, posture, and mental relaxation.",30 minutes,1 set
+General Fitness,Beginner,6 Weeks,Stretching,Stretching keeps muscles flexible and reduces injury risk.,15 minutes,2 sets
+General Fitness,Beginner,6 Weeks,Marching in Place,Marching improves circulation and mobility.,10 minutes,2 sets
+General Fitness,Intermediate,1 Month,Plank Hold,Planks strengthen the core and improve posture.,10 minutes,3 sets
+General Fitness,Intermediate,1 Month,Lunges,Lunges strengthen legs and improve balance.,15 minutes,3 sets
+General Fitness,Intermediate,1 Month,Resistance Band Workout,Resistance bands improve muscle tone and flexibility.,20 minutes,3 sets
+General Fitness,Advanced,3 Months,Circuit Training,"Circuit training improves strength, endurance, and coordination.",30 minutes,5 sets
+General Fitness,Advanced,3 Months,Kettlebell Swings,"Kettlebell swings improve power, endurance, and coordination.",20 minutes,4 sets
+General Fitness,Advanced,3 Months,Functional Training,Functional training improves movement patterns used in daily life.,30 minutes,4 sets
+Weight Loss,Beginner,6 Weeks,Side Steps,Side steps improve mobility and help burn calories gently.,15 minutes,2 sets
+Weight Loss,Intermediate,1 Month,Step Ups,Step ups improve leg strength and cardiovascular endurance.,20 minutes,3 sets
+Muscle Gain,Beginner,6 Weeks,Dumbbell Rows,Dumbbell rows strengthen the back and arms.,15 minutes,3 sets
+Muscle Gain,Intermediate,1 Month,Shoulder Press,Shoulder press builds shoulder strength and stability.,20 minutes,4 sets
+Improve Endurance,Beginner,6 Weeks,Elliptical Trainer,Elliptical training improves endurance with low joint impact.,25 minutes,1 set
+Improve Endurance,Intermediate,1 Month,Stair Climbing,Stair climbing improves leg strength and cardiovascular endurance.,20 minutes,3 sets
+General Fitness,Beginner,6 Weeks,Light Aerobics,Aerobics improve coordination and heart health.,20 minutes,2 sets
+General Fitness,Intermediate,1 Month,Medicine Ball Exercises,Medicine ball workouts improve strength and coordination.,20 minutes,3 sets
+General Fitness,Advanced,3 Months,Cross Training,Cross training enhances overall fitness by combining different exercises.,35 minutes,4 sets
